@@ -2,7 +2,7 @@
 
 ---
 ### Description
-This is an exercise related to time series analysis. I used store sales daata, daily traffic and air passengers for this analysis. 
+This is an exercise related to time series analysis. I used store sales data, daily traffic and air passengers for this analysis. 
 
 ---
 ### Built With
