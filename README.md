@@ -2,7 +2,7 @@
 
 ---
 ### Description
-This is an exercise related to time series analysis. I used daily traffic and air passengers for this analysis. 
+This exercise focuses on time series analysis using daily traffic and air passenger data. The project involved examining and modeling these time series to gain insights and make forecasts based on the historical patterns observed in the data. 
 
 ---
 ### Built With
